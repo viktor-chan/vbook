@@ -23,3 +23,6 @@ use-default-preprocessors = true
 
 [output.html]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
+
+
+# https://gist.github.com/cobyism/4730490
