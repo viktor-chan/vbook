@@ -11,7 +11,15 @@ title = "My book"
 command = "mdbook-graphviz"
 output-to-file = false
 
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
 [build]
 build-dir = "../htmlbook"                # the directory where the output is placed
 create-missing = true             # whether or not to create missing pages
 use-default-preprocessors = true
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
