@@ -1,11 +1,16 @@
 # Chapter 1
 
+```mermaid
+flowchart LR
+    A-- This is the text! ---B
+```
+
 ```bob
     0       3
      *-------*      +y
   1 /|    2 /|       ^
    *-------* |       |
-   | |4    | |7      | ◄╮
+:q
    | *-----|-*     ⤹ +-----> +x
    |/      |/       / ⤴
    *-------*       v
@@ -13,16 +18,3 @@
 ```
 
 
-```dot process
-digraph {
-    "processed" -> "graph"
-}
-```
-
-```mermaid
-    graph TD;
-        A-->B;
-        A-->C;
-        B-->D;
-        C-->D;
-```
