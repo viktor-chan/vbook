@@ -1,9 +1,5 @@
 # Chapter 1
 
-```mermaid
-flowchart LR
-    A-- This is the text! ---B
-```
 
 ```bob
     0       3
@@ -30,4 +26,11 @@ flowchart LR
 
 ```
 git subtree push --prefix book origin gh-pages
+
+.----.----.
+| 中 | 文 |
++----+----+
+| 文 | 字 |
+`----'----'
+
 ```
