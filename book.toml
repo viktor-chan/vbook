@@ -3,7 +3,7 @@ authors = ["John Doe"]
 language = "en"
 multilingual = false
 src = "src"
-title = "My book"
+title = "vbook"
 
 [preprocessor.svgbob]
 
@@ -16,7 +16,7 @@ command = "mdbook-mermaid"
 
 [build]
 build-dir = "book"                # the directory where the output is placed
-create-missing = true             # whether or not to create missing pages
+create-missing = false # whether or not to create missing pages
 use-default-preprocessors = true
 
 [output]
