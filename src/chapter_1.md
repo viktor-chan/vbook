@@ -2,6 +2,11 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim tortor vitae ultrices imperdiet. In rutrum, ex in eleifend volutpat, lectus tortor mollis lectus, sagittis blandit enim lectus at nisl. Pellentesque aliquam tortor in nisl dapibus, id dapibus purus ultrices. Vestibulum malesuada ipsum mauris, eu eleifend orci pretium eu. Maecenas efficitur sollicitudin finibus. Nulla et facilisis purus, eu auctor metus. Praesent vel nulla libero. Proin massa ipsum, laoreet eget aliquet nec, facilisis ut ligula. Donec posuere magna ut sapien commodo aliquam.
 
+![image](blue_re-pict-house-base.png_256.png)
+
+[Designed by Raw Shorts](http://www.rawshorts.com)
+
+
 Aliquam ornare, libero non mattis tincidunt, arcu dui tincidunt magna, quis venenatis metus quam eu erat. Etiam malesuada interdum lectus nec bibendum. Morbi sit amet imperdiet est, sed eleifend nunc. Pellentesque sed velit at lorem tempus lacinia ut non dui. Phasellus dignissim tortor finibus mauris mattis, vel tincidunt sapien sollicitudin. Praesent vel enim pharetra, euismod felis eget, facilisis ex. Nunc eget tristique nulla. Aliquam vehicula tortor nec orci efficitur placerat. Duis blandit fermentum sodales. Praesent gravida gravida ipsum, sit amet ornare lorem sollicitudin id. Nam aliquam euismod ex nec elementum.
 
 In eget dolor mollis, fermentum lectus in, ullamcorper eros. Maecenas mauris libero, elementum ut consectetur eu, ultrices eu tortor. Donec a urna ligula. Aenean elit dolor, semper ac felis sed, sollicitudin vehicula mi. Nam condimentum sagittis quam ut fringilla. Nam iaculis ipsum id feugiat elementum. Cras in nibh rutrum, pretium sapien id, tristique dolor.
